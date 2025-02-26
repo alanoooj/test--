@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fgch5bp/cBo=",
+  "dgSpecHash": "jDtCJdy9nSM=",
   "success": true,
-  "projectFilePath": "/Users/iqme/Desktop/Project/FU1/STP/STPServer/STPServer/STPServer.csproj",
+  "projectFilePath": "/Users/iqme/Desktop/Project/111/test--/STPServer/STPServer/STPServer.csproj",
   "expectedPackageFiles": [
     "/Users/iqme/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/iqme/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

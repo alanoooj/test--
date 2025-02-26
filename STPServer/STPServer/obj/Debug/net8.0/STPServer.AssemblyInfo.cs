@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STPServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16bc086d9d860f52af080eb7d0df8534fe66fb66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d20a36a3bb6dfd663006cb00f216db224666fb1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("STPServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STPServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

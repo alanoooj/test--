@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/iqme/Desktop/Project/FU1/STP/STPServer/STPServer/STPServer.csproj": {}
+    "/Users/iqme/Desktop/Project/111/test--/STPServer/STPServer/STPServer.csproj": {}
   },
   "projects": {
-    "/Users/iqme/Desktop/Project/FU1/STP/STPServer/STPServer/STPServer.csproj": {
+    "/Users/iqme/Desktop/Project/111/test--/STPServer/STPServer/STPServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/iqme/Desktop/Project/FU1/STP/STPServer/STPServer/STPServer.csproj",
+        "projectUniqueName": "/Users/iqme/Desktop/Project/111/test--/STPServer/STPServer/STPServer.csproj",
         "projectName": "STPServer",
-        "projectPath": "/Users/iqme/Desktop/Project/FU1/STP/STPServer/STPServer/STPServer.csproj",
+        "projectPath": "/Users/iqme/Desktop/Project/111/test--/STPServer/STPServer/STPServer.csproj",
         "packagesPath": "/Users/iqme/.nuget/packages/",
-        "outputPath": "/Users/iqme/Desktop/Project/FU1/STP/STPServer/STPServer/obj/",
+        "outputPath": "/Users/iqme/Desktop/Project/111/test--/STPServer/STPServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/iqme/.nuget/NuGet/NuGet.Config"
