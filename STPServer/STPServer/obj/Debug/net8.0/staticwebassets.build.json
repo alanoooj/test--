@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lBW8MbDYnmRyQT4Wftn+TrNX8Xzom/fIDxar3BKpsGo=",
+  "Source": "STPServer",
+  "BasePath": "_content/STPServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

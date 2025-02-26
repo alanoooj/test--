@@ -1,0 +1,6 @@
+@STPServer_HostAddress = http://localhost:5245
+
+#GET {{STPServer_HostAddress}}/weatherforecast/
+#Accept: application/json
+
+###
